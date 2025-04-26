@@ -1,0 +1,3 @@
+Hopkins et al. (1999) created the Spambase data set donated to the UCI Machine Learning Repository. The data set contains 4,601 emails marked as spam or non-spam by a postmaster or individuals. Fifty-seven features aid in classifying emails as spam (e.g. word frequencies and email characteristics). The Spambase data set is used for developing and benchmarking spam detection models, providing a base for analysing the effectiveness of various machine learning techniques in distinguishing between spam and legitimate emails.
+
+As a data professional, you were tasked by your company to develop a neural network with TensorFlow that can classify emails as spam or non-spam. You were tasked to develop a model based on the Spambase data set.
