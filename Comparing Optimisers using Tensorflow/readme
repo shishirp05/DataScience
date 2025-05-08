@@ -1,0 +1,1 @@
+Build a neural network model that predicts survivors of the Titanic voyage using data from the Titanic data set. Create and train the model with Adam and then RMSProp, and evaluate it to see which optimiser was most effective.
